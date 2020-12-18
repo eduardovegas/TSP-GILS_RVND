@@ -1,5 +1,5 @@
 # TSP-GILS_RVND
-This project implements the GILS-RVND metaheuristic for solving the Traveling Salesman Problem (TSP).
+This project implements the [GILS-RVND](https://www.sciencedirect.com/science/article/abs/pii/S037722171200269X) metaheuristic for solving the Traveling Salesman Problem (TSP).
 
 Compiling and Running
 ----------------------
