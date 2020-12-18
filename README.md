@@ -1,2 +1,14 @@
 # TSP-GILS_RVND
-Resolução do Traveling Salesman Problem (TSP) de forma meta-heurística utilizando o GILS-RVND.
+This project implements the GILS-RVND metaheuristic for solving the Traveling Salesman Problem (TSP).
+
+Compiling and Running
+----------------------
+A serial executable is obtained by using your favourite C++ compiler to compile and link the downloaded files.
+
+On Windows:
+
+**g++ -O3 src/main.cpp src/readData.cpp src/saveMean.cpp -o tsp.exe**
+
+After done compiling, execute the 'tsp' program passing the instance name as an argument, like this:
+
+**./tsp instance.tsp**
