@@ -11,4 +11,4 @@ On Windows:
 
 After done compiling, execute the 'tsp' program passing the instance name as an argument, like this:
 
-**./tsp instance.tsp**
+**./tsp instances/name.tsp**
