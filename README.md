@@ -7,7 +7,7 @@ A serial executable is obtained by using your favourite C++ compiler to compile 
 
 On Windows:
 
-**g++ -O3 src/main.cpp src/readData.cpp src/saveMean.cpp -o tsp.exe**
+**g++ -O3 src/main.cpp src/readData.cpp -o tsp.exe**
 
 After done compiling, execute the 'tsp' program passing the instance name as an argument, like this:
 
